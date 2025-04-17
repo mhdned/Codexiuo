@@ -13,6 +13,12 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
   </a>
 </p>
 
+
+## Contents
+
+- [000 - Never Wait Again: The JS Loops](lessions/000%20-%20Never%20Wait%20Again%3A%20The%20JS%20Loops)
+- [001 - Surprised TypeScript](lessions/001%20-%20Surprised%20TypeScript)
+- [002 - Typescript Cheatsheet](lessions/002%20-%20Typescript%20Cheatsheet)
 ## License
 MIT License
 Just like your favorite open-source project, this code is free for everyone to use, modify, and share. But, please don’t blame me if it blows up your computer! 💥
