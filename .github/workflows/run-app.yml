@@ -1,0 +1,31 @@
+name: Run App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        working-directory: ./src
+        run: npm install
+
+      - name: Compile TypeScript
+        working-directory: ./src
+        run: npm run build
+
+      - name: Run app
+        working-directory: ./src
+        run: node dist/app.js

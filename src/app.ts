@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
 
-const LESSONS_DIR = path.join(__dirname, "..", "lessions");
-const README_PATH = path.join(__dirname, "..", "README.md");
+const LESSONS_DIR = path.join(__dirname, "../..", "lessions");
+const README_PATH = path.join(__dirname, "../..", "README.md");
 
 function getLessonFolders(): string[] {
   return fs.readdirSync(LESSONS_DIR).filter((folder) => {
