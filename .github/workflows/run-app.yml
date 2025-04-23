@@ -5,10 +5,12 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -31,9 +33,11 @@ jobs:
         run: node dist/app.js
 
       - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.name "mhdned"
           git config --local user.email "mahdi.nedaee4@github.com"
-          git add ./README.md
+          git add ../README.md
           git commit -m "Update README.md via GitHub Actions" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GH_TOKEN}@github.com/mhdned/Codexiuo.git
