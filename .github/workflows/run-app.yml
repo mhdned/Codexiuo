@@ -29,3 +29,11 @@ jobs:
       - name: Run app
         working-directory: ./src
         run: node dist/app.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add ../README.md
+          git commit -m "Update README.md via GitHub Actions" || echo "No changes to commit"
+          git push
