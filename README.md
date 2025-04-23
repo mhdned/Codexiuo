@@ -21,6 +21,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [002 - Typescript Cheatsheet](lessions/002%20-%20Typescript%20Cheatsheet)
 - [003 - TSCONFIG Cheatsheet](lessions/003%20-%20TSCONFIG%20Cheatsheet)
 - [004 - Factory DP](lessions/004%20-%20Factory%20DP)
+- [005 - Abstract Factory DP](lessions/005%20-%20Abstract%20Factory%20DP)
 ## License
 MIT License
 Just like your favorite open-source project, this code is free for everyone to use, modify, and share. But, please don’t blame me if it blows up your computer! 💥
