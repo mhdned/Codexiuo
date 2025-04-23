@@ -38,6 +38,6 @@ jobs:
         run: |
           git config --local user.name "mhdned"
           git config --local user.email "mahdi.nedaee4@github.com"
-          git add ../README.md
+          git add ./README.md
           git commit -m "Update README.md via GitHub Actions" || echo "No changes to commit"
           git push https://x-access-token:${GH_TOKEN}@github.com/mhdned/Codexiuo.git
