@@ -22,6 +22,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [003 - TSCONFIG Cheatsheet](lessions/003%20-%20TSCONFIG%20Cheatsheet)
 - [004 - Factory DP](lessions/004%20-%20Factory%20DP)
 - [005 - Abstract Factory DP](lessions/005%20-%20Abstract%20Factory%20DP)
+- [006 - Make a Sandwich (with Builder Pattern)](lessions/006%20-%20Make%20a%20Sandwich%20(with%20Builder%20Pattern))
 ## License
 MIT License
 Just like your favorite open-source project, this code is free for everyone to use, modify, and share. But, please don’t blame me if it blows up your computer! 💥
