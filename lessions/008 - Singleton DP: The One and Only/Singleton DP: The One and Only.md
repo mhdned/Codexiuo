@@ -1,10 +1,3 @@
----
-
-title: "Singleton Design Pattern: The One and Only"
-author: "Codexiuo"
-date: 2025-04-30
-----------------
-
 > "In every village, there's only one chief. Singleton is the chief of code."
 
 ---

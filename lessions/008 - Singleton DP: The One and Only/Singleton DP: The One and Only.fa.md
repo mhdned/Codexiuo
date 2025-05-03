@@ -1,10 +1,3 @@
----
-
-title: "Singleton Design Pattern: The One and Only"
-author: "Codexiuo"
-date: 2025-04-30
-----------------
-
 > "تو هر دهکده فقط یه کدخدا هست. Singleton هم کدخدای کدهاست."
 
 ---
