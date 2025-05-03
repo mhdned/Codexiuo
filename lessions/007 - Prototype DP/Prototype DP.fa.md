@@ -1,9 +1,3 @@
----
-title: "Prototype Design Pattern"
-author: "Codexiuo"
-date: 2025-04-30
----
-
 > "وقتی ساختن یه چیزی دردسر داره، کپی بگیر و خودتو خلاص کن."
 
 ---

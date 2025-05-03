@@ -1,9 +1,3 @@
----
-title: "Prototype Design Pattern"
-author: "Codexiuo"
-date: 2025-04-30
----
-
 > "When building something is a pain, just copy it and move on."
 
 ---
