@@ -26,6 +26,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [007 - Prototype DP](lessions/007%20-%20Prototype%20DP)
 - [008 - Singleton DP: The One and Only](lessions/008%20-%20Singleton%20DP%3A%20The%20One%20and%20Only)
 - [009 - Adapter: When Code Doesn’t Speak the Same Language](lessions/009%20-%20Adapter%3A%20When%20Code%20Doesn%E2%80%99t%20Speak%20the%20Same%20Language)
+- [010 - Bridge the Gap](lessions/010%20-%20Bridge%20the%20Gap)
 ## License
 MIT License
 Just like your favorite open-source project, this code is free for everyone to use, modify, and share. But, please don’t blame me if it blows up your computer! 💥
