@@ -7,12 +7,12 @@ Codexiuo is a small part of my personal experiences that I’ve been stuck with 
 Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and searched for: from clean code, language quirks, hidden features, to anything I think might be useful.
 
 ## Technologies
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=md,html,css" />
   </a>
 </p>
-
 
 ## Contents
 
@@ -22,16 +22,19 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [003 - TSCONFIG Cheatsheet](lessions/003%20-%20TSCONFIG%20Cheatsheet)
 - [004 - Factory DP](lessions/004%20-%20Factory%20DP)
 - [005 - Abstract Factory DP](lessions/005%20-%20Abstract%20Factory%20DP)
-- [006 - Make a Sandwich (with Builder Pattern)](lessions/006%20-%20Make%20a%20Sandwich%20(with%20Builder%20Pattern))
+- [006 - Make a Sandwich (with Builder Pattern)](<lessions/006%20-%20Make%20a%20Sandwich%20(with%20Builder%20Pattern)>)
 - [007 - Prototype DP](lessions/007%20-%20Prototype%20DP)
 - [008 - Singleton DP: The One and Only](lessions/008%20-%20Singleton%20DP%3A%20The%20One%20and%20Only)
 - [009 - Adapter: When Code Doesn’t Speak the Same Language](lessions/009%20-%20Adapter%3A%20When%20Code%20Doesn%E2%80%99t%20Speak%20the%20Same%20Language)
 - [010 - Bridge the Gap](lessions/010%20-%20Bridge%20the%20Gap)
+
 ## License
+
 MIT License
 Just like your favorite open-source project, this code is free for everyone to use, modify, and share. But, please don’t blame me if it blows up your computer! 💥
 
 ## Author
+
 ```JS
 const authors = ["mhdned"]
 ```
