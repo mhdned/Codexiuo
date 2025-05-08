@@ -28,6 +28,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [009 - Adapter: When Code Doesn’t Speak the Same Language](lessions/009%20-%20Adapter%3A%20When%20Code%20Doesn%E2%80%99t%20Speak%20the%20Same%20Language)
 - [010 - Bridge the Gap](lessions/010%20-%20Bridge%20the%20Gap)
 - [011 - Composite DP](lessions/011%20-%20Composite%20DP)
+- [012 - Decorator DP](lessions/012%20-%20Decorator%20DP)
 ## License
 
 MIT License
