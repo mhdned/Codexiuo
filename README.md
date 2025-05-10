@@ -30,6 +30,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [011 - Composite DP](lessions/011%20-%20Composite%20DP)
 - [012 - Decorator DP](lessions/012%20-%20Decorator%20DP)
 - [013 - You Tell Me, I’ll Tell Them (Facade Design Pattern)](lessions/013%20-%20You%20Tell%20Me%2C%20I%E2%80%99ll%20Tell%20Them%20(Facade%20Design%20Pattern))
+- [014 - Flyweight: A Design Pattern for Memory Optimization](lessions/014%20-%20Flyweight%3A%20A%20Design%20Pattern%20for%20Memory%20Optimization)
 ## License
 
 MIT License
