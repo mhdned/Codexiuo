@@ -33,6 +33,10 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [014 - Flyweight: A Design Pattern for Memory Optimization](lessions/014%20-%20Flyweight%3A%20A%20Design%20Pattern%20for%20Memory%20Optimization)
 - [015 - Proxy: Go Check Who's at the Door for Me](lessions/015%20-%20Proxy%3A%20Go%20Check%20Who's%20at%20the%20Door%20for%20Me)
 - [016 - Chain of Responsibility](lessions/016%20-%20Chain%20of%20Responsibility)
+- [017 - Command Pattern](lessions/017%20-%20Command%20Pattern)
+- [018 - Iterator Pattern](lessions/018%20-%20Iterator%20Pattern)
+- [019 - Mediator Pattern](lessions/019%20-%20Mediator%20Pattern)
+- [020 - Memento Pattern](lessions/020%20-%20Memento%20Pattern)
 ## License
 
 MIT License
