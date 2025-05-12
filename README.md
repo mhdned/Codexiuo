@@ -32,6 +32,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [013 - You Tell Me, I’ll Tell Them (Facade Design Pattern)](lessions/013%20-%20You%20Tell%20Me%2C%20I%E2%80%99ll%20Tell%20Them%20(Facade%20Design%20Pattern))
 - [014 - Flyweight: A Design Pattern for Memory Optimization](lessions/014%20-%20Flyweight%3A%20A%20Design%20Pattern%20for%20Memory%20Optimization)
 - [015 - Proxy: Go Check Who's at the Door for Me](lessions/015%20-%20Proxy%3A%20Go%20Check%20Who's%20at%20the%20Door%20for%20Me)
+- [016 - Chain of Responsibility](lessions/016%20-%20Chain%20of%20Responsibility)
 ## License
 
 MIT License
