@@ -39,6 +39,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [020 - Memento Pattern](lessions/020%20-%20Memento%20Pattern)
 - [021 - Observer Design Pattern](lessions/021%20-%20Observer%20Design%20Pattern)
 - [022 - State DP](lessions/022%20-%20State%20DP)
+- [023 - Strategy: Say No to Endless if-else Chains](lessions/023%20-%20Strategy%3A%20Say%20No%20to%20Endless%20if-else%20Chains)
 ## License
 
 MIT License
