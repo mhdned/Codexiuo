@@ -41,6 +41,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [022 - State DP](lessions/022%20-%20State%20DP)
 - [023 - Strategy: Say No to Endless if-else Chains](lessions/023%20-%20Strategy%3A%20Say%20No%20to%20Endless%20if-else%20Chains)
 - [024 - Template Method: Give Me the Recipe](lessions/024%20-%20Template%20Method%3A%20Give%20Me%20the%20Recipe)
+- [025 - Visitor Pattern: "A respected guest who packs her own things"](lessions/025%20-%20Visitor%20Pattern%3A%20%22A%20respected%20guest%20who%20packs%20her%20own%20things%22)
 ## License
 
 MIT License
