@@ -43,6 +43,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [024 - Template Method: Give Me the Recipe](lessions/024%20-%20Template%20Method%3A%20Give%20Me%20the%20Recipe)
 - [025 - Visitor Pattern: "A respected guest who packs her own things"](lessions/025%20-%20Visitor%20Pattern%3A%20%22A%20respected%20guest%20who%20packs%20her%20own%20things%22)
 - [026 - You You ID](lessions/026%20-%20You%20You%20ID)
+- [027 - SSRF](lessions/027%20-%20SSRF)
 ## License
 
 MIT License
