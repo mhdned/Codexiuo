@@ -45,6 +45,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [026 - You You ID](lessions/026%20-%20You%20You%20ID)
 - [027 - SSRF](lessions/027%20-%20SSRF)
 - [028 - I Know More and I Want More](lessions/028%20-%20I%20Know%20More%20and%20I%20Want%20More)
+- [029 - CQRS](lessions/029%20-%20CQRS)
 ## License
 
 MIT License
