@@ -47,6 +47,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [028 - I Know More and I Want More](lessions/028%20-%20I%20Know%20More%20and%20I%20Want%20More)
 - [029 - CQRS](lessions/029%20-%20CQRS)
 - [030 - Saga](lessions/030%20-%20Saga)
+- [031 - This "This" is not that "This"](lessions/031%20-%20This%20%22This%22%20is%20not%20that%20%22This%22)
 ## License
 
 MIT License
