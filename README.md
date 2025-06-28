@@ -49,6 +49,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [030 - Saga](lessions/030%20-%20Saga)
 - [031 - This "This" is not that "This"](lessions/031%20-%20This%20%22This%22%20is%20not%20that%20%22This%22)
 - [032 - Proxy, Decorator — Brothers from the Same Father but Different Mothers](lessions/032%20-%20Proxy%2C%20Decorator%20%E2%80%94%20Brothers%20from%20the%20Same%20Father%20but%20Different%20Mothers)
+- [033 - Brute Force](lessions/033%20-%20Brute%20Force)
 ## License
 
 MIT License
