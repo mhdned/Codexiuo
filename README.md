@@ -51,6 +51,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [032 - Proxy, Decorator — Brothers from the Same Father but Different Mothers](lessons/032%20-%20Proxy%2C%20Decorator%20%E2%80%94%20Brothers%20from%20the%20Same%20Father%20but%20Different%20Mothers)
 - [033 - Brute Force](lessons/033%20-%20Brute%20Force)
 - [034 - CAP Theorem](lessons/034%20-%20CAP%20Theorem)
+- [044 - Idempotency Key](lessons/044%20-%20Idempotency%20Key)
 ## License
 
 MIT License
