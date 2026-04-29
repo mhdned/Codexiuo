@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const LESSONS_DIR = path.join(__dirname, "../..", "lessions");
+const LESSONS_DIR = path.join(__dirname, "../..", "lessons");
 const README_PATH = path.join(__dirname, "../..", "README.md");
 
 function getLessonFolders(): string[] {
@@ -14,7 +14,7 @@ function getLessonFolders(): string[] {
 function generateMarkdownLinks(folders: string[]): string {
   return (
     folders
-      .map((folder) => `- [${folder}](lessions/${encodeURIComponent(folder)})`)
+      .map((folder) => `- [${folder}](lessons/${encodeURIComponent(folder)})`)
       .join("\n") + "\n"
   );
 }
@@ -25,7 +25,7 @@ function updateReadme(content: string) {
   const newSection = `## Contents\n\n${content}`;
   const updatedReadme = readme.replace(
     /## Contents[\s\S]*?(?=##|$)/,
-    newSection
+    newSection,
   );
 
   fs.writeFileSync(README_PATH, updatedReadme, "utf8");
