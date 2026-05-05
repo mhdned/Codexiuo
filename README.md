@@ -52,6 +52,7 @@ Here in Codexiuo, I’m collecting all the tips and tricks I’ve learned and se
 - [033 - Brute Force](lessons/033%20-%20Brute%20Force)
 - [034 - CAP Theorem](lessons/034%20-%20CAP%20Theorem)
 - [035 - Idempotency Key](lessons/035%20-%20Idempotency%20Key)
+- [036 - Worker Threads](lessons/036%20-%20Worker%20Threads)
 ## License
 
 MIT License
